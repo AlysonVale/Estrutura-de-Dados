@@ -12,5 +12,5 @@ Foi uma disciplina da faculdade de Engenharia de Computação do IFPB - Campina 
 # Projeto
 <a href="https://github.com/alysonvale/estrutura-de-dados/tree/main/Proj%20Bucket%20Sort"> 
  <br />
- <sub><b>Bucket Sort</b></a>
+ <sub><b>*Bucket Sort</b></a>
  
