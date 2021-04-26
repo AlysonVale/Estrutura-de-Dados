@@ -10,6 +10,8 @@ Foi uma disciplina da faculdade de Engenharia de Computação do IFPB - Campina 
 * Linguagem - C
 
 # Projeto
- <sub><b>Bucket Sort</b></a><br/
- <a href="https://github.com/alysonvale/estrutura-de-dados/tree/main/Proj%20Bucket%20Sort"> 
+
+<a href="https://github.com/alysonvale/estrutura-de-dados/tree/main/Proj%20Bucket%20Sort"> 
  <br />
+ <sub><b>Bucket Sort</b></a>
+ 
